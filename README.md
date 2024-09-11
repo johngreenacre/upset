@@ -1,5 +1,5 @@
-# upset
-Upset is yet another CSS reset file. It is not anything special and not the right file for everyone. As with all CSS reset files they are opinionated, and in most cases they are overkill for the project being completed.
+# UpSet
+UpSet is yet another CSS reset file. It is not anything special and not the right file for everyone. As with all CSS reset files they are opinionated, and in most cases they are overkill for the project being completed.
 
 With that being said, this is a CSS reset file I semi-created. I say semi as the basis of it and many of the inclusions were from those who are more clever than me.
 
